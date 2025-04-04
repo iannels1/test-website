@@ -1,0 +1,7 @@
+iannels.us
+
+file_server
+
+handle_errors {
+    respond "An error occurred" 500
+}
